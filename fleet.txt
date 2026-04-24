@@ -1,0 +1,6 @@
+Car, V001, Tesla Model 3, 2023, Electric, 4
+Truck, T101, Volvo FH16, 2019, 25000, 6
+Motorcycle, M301, Yamaha R1, 2024, 998, Sport
+Car, V002, Toyota Corolla, 2018, Petrol, 4
+Truck, T102, Mercedes Actros, 2021, 18000, 4
+Motorcycle, M302, Harley Davidson, 2015, 1200, Cruiser
